@@ -16,7 +16,7 @@ This project is a frontend replica of AmazonVision, built with HTML, CSS, and Ja
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/yourusername/AmazonVision-Replica.git`
+1. Clone the repository: `git clone https://github.com/Prem-Mule/AmazonVision-Replica.git`
 2. Open `index.html` in your preferred web browser.
 
 ## Contributing
